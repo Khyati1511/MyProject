@@ -1,4 +1,4 @@
 
 puts "Hello World!"
 print "Hello World!"
-puts "Hello World!"
+puts "My first Ruby Demo!"
